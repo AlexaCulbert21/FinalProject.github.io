@@ -1,0 +1,32 @@
+h1 {
+    font-family: Tilt Warp, sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+	text-align: center;
+}
+p1 {
+    font-family: Tilt Warp, sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    color: #FFFFFF;
+    text-decoration: none;
+    position: absolute;
+    left: 767px;
+    top: 198px;
+    width: 189px;
+}
+
+p {
+	text-align: center;
+	color: white;
+}
+
+dl {
+	color: white;
+	text-align: center;
+	font-family: Tilt Warp, sans-serif;
+}
